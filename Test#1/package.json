@@ -1,0 +1,19 @@
+{
+  "name": "mltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^3.1.0",
+    "csv-write-stream": "^2.0.0",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.11.0",
+    "puppeteer": "^1.4.0"
+  }
+}
